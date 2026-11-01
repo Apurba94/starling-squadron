@@ -1,0 +1,11 @@
+{
+  "name": "starling-squadron",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "description": "A vertical shooter steered with one thumb: eight stages, bullet patterns, boss fights and a hangar of upgrades.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
